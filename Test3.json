@@ -24,16 +24,8 @@
          "height":10,
          "name":"Kachelebene 1",
          "opacity":1,
-         "properties":
-            {
-             "startLayer":true
-            },
-         "propertytypes":
-            {
-             "startLayer":"bool"
-            },
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
@@ -44,7 +36,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -54,7 +46,7 @@
          "name":"Kachelebene 3",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
